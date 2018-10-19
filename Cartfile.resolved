@@ -1,0 +1,5 @@
+github "SnapKit/SnapKit" "4.0.1"
+github "danielgindi/Charts" "v3.1.1"
+github "hackiftekhar/IQKeyboardManager" "v5.0.2"
+github "scalessec/Toast-Swift" "4.0.0"
+github "vikmeup/SCLAlertView-Swift" "d371170ca2e276462ff229e675a2d2020ad2bb72"
